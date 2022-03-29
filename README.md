@@ -1,3 +1,3 @@
 # README
 
-* Novo projeto de testes. *
+* Novo projeto de testes. 
